@@ -2,9 +2,9 @@
 
 # Dmitry Bulakh
 
-**Team Lead · Senior Frontend Developer**
+**Senior Frontend Developer with leadership experience **
 
-**TypeScript · React · RxJS · Canvas**
+**TypeScript · React · RxJS · Canvas · InversifyJS**
 
 [GitHub @deepeerie](https://github.com/deepeerie) · [deepeerie@icloud.com](mailto:deepeerie@icloud.com)
 
@@ -16,7 +16,7 @@ I build web applications at **Sber** in Moscow. My background spans frontend dev
 
 ## Selected work
 
-### Doski / Whiteboard · Sber
+### Boards · Sber
 
 My main professional project: a whiteboarding application similar to Miro, with three years of development experience on the product.
 
