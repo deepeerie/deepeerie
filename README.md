@@ -90,7 +90,7 @@ C, Ruby, Django, jQuery, Ruby on Rails, and REST APIs, alongside JavaScript, Pyt
 
 ## Beyond work
 
-Active sports, yoga, and meditation.
+Active sports, philosophy and psychology.
 
 ---
 
