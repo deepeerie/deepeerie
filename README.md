@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dmitry Bulakh
+# Dmitrii Bulakh
 
 **Senior Frontend / Web Developer with leadership experience**
 
