@@ -2,7 +2,7 @@
 
 # Dmitry Bulakh
 
-**Senior Frontend Developer with leadership experience **
+**Senior Frontend / Web Developer with leadership experience**
 
 **TypeScript · React · RxJS · Canvas · InversifyJS**
 
@@ -12,13 +12,17 @@
 
 ---
 
-I build web applications at **Sber** in Moscow. My background spans frontend development, backend engineering, and QA, with a current focus on frontend development and team leadership.
+I build interactive web applications at **Sber**, with **5 years at the company** across frontend and backend development.
 
 ## Selected work
 
 ### Boards · Sber
 
-My main professional project: a whiteboarding application similar to Miro, with three years of development experience on the product.
+A collaborative whiteboard built on **Canvas**, now being integrated into a communications platform.
+
+- **Rendering & collaboration:** high-performance rendering and responsive interactions for multi-user collaboration.
+- **Architecture:** modular design based on dependency inversion, using **InversifyJS**.
+- **Platform integration:** worked with my team to decompose the product into modules for embedding in the platform.
 
 ### [StudyFlux](https://github.com/deepeerie/studyflux) · Personal project
 
@@ -36,11 +40,16 @@ A TypeScript experiment that exposes object properties as RxJS streams, with nes
 
 ## Experience
 
-| Role | Company & location | Duration |
+### Sber · Senior Frontend / Web Developer
+
+**Moscow · Current**
+
+Alongside hands-on development, I helped grow the team and continue to share responsibility for guiding its developers.
+
+Previous roles at Sber: Manager / Middle Frontend Developer in Moscow and Backend Developer in Novosibirsk.
+
+| Earlier experience | Company & location | Duration |
 | :--- | :--- | :--- |
-| **Team Lead / Senior Frontend Developer** | Sber · Moscow | Current |
-| Manager / Middle Frontend Developer | Sber · Moscow | 3 years |
-| Backend Developer | Sber · Novosibirsk | 8 months |
 | Frontend Developer | InfoSoft · Novosibirsk | 9 months |
 | QA Intern | MegaFon · Novosibirsk | 8 months |
 
